@@ -1,0 +1,24 @@
+﻿  tjbot.c
+e:\blak\game\g_local.h(1835): warning C4031: second formal parameter list longer than the first list
+e:\blak\game\g_local.h(1835): warning C4028: formal parameter 1 different from declaration
+e:\blak\game\g_local.h(2069): warning C4031: second formal parameter list longer than the first list
+e:\blak\game\g_local.h(2069): warning C4028: formal parameter 1 different from declaration
+e:\blak\game\g_local.h(2069): warning C4028: formal parameter 2 different from declaration
+e:\blak\game\g_local.h(2070): warning C4028: formal parameter 1 different from declaration
+e:\blak\tjbot.c(41): warning C4311: 'type cast': pointer truncation from 'void *' to 'unsigned int'
+e:\blak\tjbot.c(44): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(45): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(46): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(47): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(48): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(49): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(50): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(51): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(52): warning C4312: 'type cast': conversion from 'unsigned int' to 'int *' of greater size
+e:\blak\tjbot.c(53): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned int *' of greater size
+e:\blak\tjbot.c(54): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned int *' of greater size
+e:\blak\tjbot.c(55): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned int *' of greater size
+e:\blak\tjbot.c(56): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned int *' of greater size
+e:\blak\tjbot.c(57): warning C4312: 'type cast': conversion from 'unsigned int' to 'float *' of greater size
+e:\blak\tjbot.c(410): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+LINK : fatal error LNK1561: entry point must be defined
